@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #ffc451;
+  color: #ff5151;
 }
 
 a:hover {
-  color: #ffd584;
+  color: #ff8484;
   text-decoration: none;
 }
 
@@ -45,14 +45,14 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #ffc451;
+  background: #ff5151;
   color: #151515;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
   background: #151515;
-  color: #ffc451;
+  color: #ff5151;
 }
 
 /*--------------------------------------------------------------
@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 0px);
   left: calc(50% - 30px);
-  border: 6px solid #ffc451;
+  border: 6px solid #ff5151;
   border-top-color: #151515;
   border-bottom-color: #151515;
   border-radius: 50%;
@@ -139,7 +139,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a span {
-  color: #ffc451;
+  color: #ff5151;
 }
 
 #header .logo img {
@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #ffc451;
+  color: #ff5151;
 }
 
 .nav-menu .drop-down ul {
@@ -215,7 +215,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
   color: #151515;
-  background: #ffc451;
+  background: #ff5151;
 }
 
 .nav-menu .drop-down > a:after {
@@ -267,11 +267,11 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #ffc451;
+  border: 2px solid #ff5151;
 }
 
 .get-started-btn:hover {
-  background: #ffbb38;
+  background: #ff3838;
   color: #343a40;
 }
 
@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
   color: #151515;
   text-decoration: none;
-  background: #ffc451;
+  background: #ff5151;
 }
 
 .mobile-nav .drop-down > a:after {
@@ -427,7 +427,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h1 span {
-  color: #ffc451;
+  color: #ff5151;
 }
 
 #hero h2 {
@@ -447,7 +447,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .icon-box i {
   font-size: 32px;
   line-height: 1;
-  color: #ffc451;
+  color: #ff5151;
 }
 
 #hero .icon-box h3 {
@@ -465,11 +465,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .icon-box h3 a:hover {
-  color: #ffc451;
+  color: #ff5151;
 }
 
 #hero .icon-box:hover {
-  border-color: #ffc451;
+  border-color: #ff5151;
 }
 
 @media (min-width: 1024px) {
@@ -521,7 +521,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #ffde9e;
+  background: #ff9e9e;
   margin: 4px 10px;
 }
 
@@ -559,7 +559,7 @@ section {
   font-size: 20px;
   left: 0;
   top: -3px;
-  color: #ffc451;
+  color: #ff5151;
 }
 
 .about .content p:last-child {
@@ -607,7 +607,7 @@ section {
 }
 
 .clients .owl-dot.active {
-  background-color: #ffc451 !important;
+  background-color: #ff5151 !important;
 }
 
 /*--------------------------------------------------------------
@@ -630,7 +630,7 @@ section {
 .features .icon-box i {
   font-size: 48px;
   float: left;
-  color: #ffc451;
+  color: #ff5151;
 }
 
 .features .icon-box p {
@@ -661,7 +661,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #ffc451;
+  background: #ff5151;
   border-radius: 4px;
   display: flex;
   align-items: center;
